@@ -1,0 +1,7 @@
+vendor
+PROJECT/params.yml
+PROJECT/db_params.yml
+PROJECT/tz.yml
+PROJECT/tests/_output/
+*.docx
+.idea
